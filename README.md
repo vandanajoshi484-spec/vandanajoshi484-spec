@@ -5,7 +5,7 @@
       <strong>Hi, I'm Vandana Joshi 👋</strong>
     </td>
     <td align="center" width="70%">
-      <h1>Data Analyst | Power BI | Excel | SQL MySQL | Python | GenAI</h1>
+      <h1>Data Analyst | Power BI | Excel | SQL | Python | GenAI</h1>
     </td>
   </tr>
 </table>
