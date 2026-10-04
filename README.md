@@ -1,28 +1,28 @@
 ```html
 <table>
-  <tr>
-    <td align="left" width="30%">
-      <strong>Hi, I'm Vandana Joshi 👋</strong>
-    </td>
-    <td align="center" width="70%">
-      <h1>Data Analyst | Power BI | Excel | SQL MySQL | Python | GenAI</h1>
-    </td>
-  </tr>
+<tr>
+<td align="left" width="30%">
+<strong>Hi, I'm Vandana Joshi 👋</strong>
+</td>
+<td align="center" width="70%">
+<h1>Data Analyst | Power BI | Excel | SQL MySQL | Python | GenAI</h1>
+</td>
+</tr>
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 </div>
 
 <div align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/vandanajoshi-analyst/">
-      <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:vandanajoshi484@gmail.com">
-      <img src="https://img.shields.io/badge/Email-vandanajoshi484%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </div>
+<div id="badges">
+<a href="https://www.linkedin.com/in/vandanajoshi-analyst/">
+<img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:vandanajoshi484@gmail.com">
+<img src="https://img.shields.io/badge/Email-vandanajoshi484%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+</div>
 </div>
 
 <br>
